@@ -42,10 +42,11 @@ datos()
 }
 .item-title{
   background-color: rgb(152, 136, 166);
-  width: 100%;
+  width: 97%;
   padding: 5px;
   height: 150px;
   text-align: center;
+  color: white;
 }
 .item{
   padding: 5px;
